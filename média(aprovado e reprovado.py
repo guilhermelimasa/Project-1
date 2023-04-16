@@ -7,6 +7,4 @@ if media >= 7:
     print("o alune", nome, "foi aprovado :) , sua média foi:", media)
 else:
     print("o aluno", nome, "foi reprovado :( , sua média foi:", media)
-#media de alunos(três notas)
-
 
